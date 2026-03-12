@@ -1,0 +1,5 @@
+{
+  "name": "BakeTrack - Bakery Management System",
+  "description": "An integrated system for managing a traditional bakery, tracking production, workers, finances, and customer debts/prepayments.",
+  "requestFramePermissions": []
+}
